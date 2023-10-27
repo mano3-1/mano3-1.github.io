@@ -5,26 +5,14 @@ permalink: /outreach/
 weight: 7
 ---
 
-
-### Entrepreneurship <br>
-<ul>
-<li>Jagriti Yatra (2019-2020) <ul>
-    <li> An exciting journey around 12 different places in India, connecting with 450 people from different parts of world. Meeting people who are doing exceptionally well in the fields of social welfare, Sustainable Product development, Technology, Rural development etc. 
-    </li> 
-    </ul> </li>
-</ul>
-![telugugang.jpeg](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/telugugang.jpeg)
-<br>
-
-
-
 ### Talks (Speaker/Presentations/Workshops) <br>
-- Took a Session on Neuroscience and Artificial Intelligence in a GDG Meetup.  
+- Took a Session on on Deep learning usecase as part of skill development Programme Conducted by NIT Calicut.
+![Workshop Speaker](https://github.com/mano3-1/saimanoj.github.io/raw/main/assets/skill_dev_nitc.jpg)
 - Conducted Introductory Workshop on Robotics and AI to Rural IT people as a part of India
 Literacy Program.
 - Conducted a 2 Hour Session on Introduction to AI and ML at NIT Calicut - Dept.of Mechanical 
 Engineering.
-![Workshop Speaker](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/NITC_Mech_Intro_to_AI.JPG)
+![Workshop Speaker]
 - Conducted 2 day workshop on Robotics in College as a part of Tech Club named RIGNITC.
 <br>
 

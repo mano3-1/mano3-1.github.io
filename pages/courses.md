@@ -4,7 +4,7 @@ title: Courses
 permalink: /courses/
 weight: 3
 ---
-### Professional Certifications 
+<!-- ### Professional Certifications 
 <ul>
 Machine Learning  <br>
 
@@ -22,17 +22,19 @@ Cloud Development  <br>
 <li> AWS Associate Solutions Architect </li>
 </ul>
 <br>
-</ul>
+</ul> -->
 
 ### Coursera  <br>
 <ul>
-<li> Machine Learning - Stanford by Andrew Ng                           </li>
-<li> Deep Learning Specialization by deeplearning.ai             </li>       
-<li>Tensorflow Data and Deployment Specialization by DeepLearning.ai  </li>
-<li> Preparing for Google Cloud Machine learning Engineer Specialization </li>
+<li> Machine Learning - Stanford by Andrew Ng </li>
+<li> Deep Learning Specialization by deeplearning.ai </li>       
+<li> Convolutional Neural Networks in TensorFlow  </li>
+<li> Natural Language Processing in TensorFlow. </li>
+<li> Introduction to Structured Query Language (SQL). </li>
+<li> Introduction to Structured Query Language (SQL). </li>
 </ul> <br>
 
-### Udacity  <br>
+<!-- ### Udacity  <br>
 <ul>
 <li> Intro to AWS Machine Learning </li>                                 
     <li>Intro to Nutanix Cloud Computing (Nutanix Hybrid Cloud)   </li> 
@@ -63,7 +65,7 @@ Cloud Development  <br>
 <li> Introduction to 3D Computer Vision - Summer School IIIT Hyderabad </li>
 <li> Introduction to Computational Neuroscience - Neuromatch Academy </li>
 </ul>
-<br>
+<br> -->
 
 <!-- ### Distance Learning <br>
 
@@ -72,18 +74,7 @@ Cloud Development  <br>
 
 ### Core Learnings - B.Tech  <br>
 <ul>    
-<li> Introduction to Robotics </li>      
-<li> Image Processing </li>   
-<li> Artificial Neural networks and Genetic Algorithms  </li>   
+<li> Introduction to Robotics </li>         
+<li> Machine Learning  </li>   
 <li> Control Systems and Algorithms </li> 
-<li> Mechanics and Dynamics </li> </ul> <br>
-
-### Core Learnings - PGD <br>
-<ul>
-<li> Essentials of AI </li>
-<li> Data Analysis and Visualization </li>
-<li> Machine Learning </li>
-<li> Advanced Machine Learning </li>
-<li> Deep learning </li>
-</ul>
 <br>
