@@ -87,12 +87,12 @@ vimeo:
   color : 162221
 
 youtube:
-  url   : https://www.youtube.com/
+  url   : https://www.youtube.com/@
   icon  : fab fa-youtube
   color : ff0000
   
 resume:
-  url   : https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/
+  url   : https://github.com/mano3-1/saimanoj.github.io/raw/master/assets/
   icon  : fas fa-download
   color : db4437
   
