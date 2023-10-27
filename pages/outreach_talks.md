@@ -12,7 +12,7 @@ weight: 7
 ![Workshop Speaker](https://github.com/mano3-1/saimanoj.github.io/raw/main/assets/RL WORKSHOP.png)
 - Conducted a 3 days workshop focused on Generative Adversial Neural Networks (GAN) , AI Club NITC
 - Conducted a 3 days workshop, Transformer Epiphany, AI Club NITC.
-![Workshop Speaker](https://github.com/mano3-1/saimanoj.github.io/raw/main/assets/AI GANG.png)
+![Workshop Speaker](https://github.com/mano3-1/saimanoj.github.io/raw/main/assets/AI_GANG.jpg)
 <br>
 
 ### Competitions <br>
