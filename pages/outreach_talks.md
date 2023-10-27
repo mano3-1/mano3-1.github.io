@@ -10,10 +10,9 @@ weight: 7
 ![Workshop Speaker](https://github.com/mano3-1/saimanoj.github.io/raw/main/assets/skill_dev_nitc.jpg)
 - Took a session on Deep Q learning as part of RL workshop conducted by AI Club, NITC
 ![Workshop Speaker](https://github.com/mano3-1/saimanoj.github.io/raw/main/assets/RL WORKSHOP.png)
-- Conducted a 2 Hour Session on Introduction to AI and ML at NIT Calicut - Dept.of Mechanical 
-Engineering.
-![Workshop Speaker]
-- Conducted 2 day workshop on Robotics in College as a part of Tech Club named RIGNITC.
+- Conducted a 3 days workshop focused on Generative Adversial Neural Networks (GAN) , AI Club NITC
+- Conducted a 3 days workshop, Transformer Epiphany, AI Club NITC.
+![Workshop Speaker](https://github.com/mano3-1/saimanoj.github.io/raw/main/assets/AI GANG.png)
 <br>
 
 ### Competitions <br>
