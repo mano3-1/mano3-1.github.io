@@ -3,28 +3,18 @@
   color: success
 
 - name: C++
-  percentage: 50
+  percentage: 55
   color: info
 
 - name: C
   percentage: 60
-  color: info
-  
-- name: HTML
-  percentage: 70
   color: info
 
 - name: SQL
   percentage: 60
   color: info
 
-- name: R
-  percentage: 40
-  color: danger
 
-- name: Quantum Computing 
-  percentage: 30
-  color: danger
 
 
 

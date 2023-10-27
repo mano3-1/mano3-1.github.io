@@ -1,52 +1,66 @@
 - name: Tensorflow
-  percentage: 70
-  color: info
+  percentage: 95
+  color: success
 
 - name: Pytorch
-  percentage: 50
-  color: info 
+  percentage: 100
+  color: success 
+
+- name: JAX
+  percentage: 60
+  color: info
+
+- name: Pyspark
+  percentage: 60
+  color: info
 
 - name: OpenCV
   percentage: 80
   color: success
 
 - name: Machine Learning
-  percentage: 80
+  percentage: 90
   color: success
 
 - name: Deep Learning
-  percentage: 80
+  percentage: 90
   color: success
+
+- name: Reinforcement Learning
+  percentage: 50
+  color: danger
 
 - name: Computer Vision
   percentage: 80
   color: success
 
 - name: NLP
-  percentage: 60
+  percentage: 95
+  color: success
+
+- name: Speech Technology
+  percentage: 70
   color: info
 
-- name: Edge Computing
-  percentage: 80
-  color: success
-
 - name: Scikit-Learn
-  percentage: 80
-  color: success
+  percentage: 75
+  color: info
 
 - name:  Data Visualisations
   percentage: 75
   color: info
 
-- name: CUDA
-  percentage: 30
-  color: danger
-
-- name: TFLite,TFJS
+- name: Numpy
   percentage: 80
   color: success
 
-- name: Speech Technology
-  percentage: 60
-  color: info
+- name: Pandas
+  percentage: 80
+  color: success
+
+- name: xgboost
+  percentage: 80
+  color: success
+
+
   

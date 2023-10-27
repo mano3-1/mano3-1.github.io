@@ -8,14 +8,13 @@ weight: 6
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-I am an Incoming Robotics Graduate Student at Worcester Polytechnic Institute (WPI). Most of my work is related to Machine learning, Deep learning, ML Engineering, MLOps, Reinforcement learning, Robotics. <br>
+I am a ML Engineer, currently working at Tiger Analytics India Pvt Ltd. Most of my work is related to Machine learning, Deep learning, ML Engineering, MLOps, Reinforcement learning <br>
 <br>
-Email: einsteingirish@gmail.com (For Casual Queries/ Work Related)\
-Alternate_Email : udaygirishm@gmail.com (For Academic Research)
-University Email: umaradana@wpi.edu
+Email: manojakondi25@gmail.com (For Casual Queries/ Work Related)\
+Alternate email : misterai2022@gmail.com (For youtube collaborations)
 <br>
 
-Want to know more about me or hire me then download resume [here](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/Uday_Girish_Maradana_Resume.pdf), CV [here](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/Uday_Girish_Maradana_CV.pdf) :smiley: <br>
+Want to know more about me? or hire me? => then download my CV [here](https://github.com/mano3-1/saimanoj.github.io/raw/main/assets/manoj_cv.pdf) :smiley: <br>
 
 
 # **Work-Experience**
