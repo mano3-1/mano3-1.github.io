@@ -6,10 +6,10 @@ weight: 7
 ---
 
 ### Talks (Speaker/Presentations/Workshops) <br>
-- Took a Session on on Deep learning usecase as part of skill development Programme Conducted by NIT Calicut.
+- Took a Session on on Deep learning usecases as part of skill development Programme Conducted by NIT Calicut.
 ![Workshop Speaker](https://github.com/mano3-1/saimanoj.github.io/raw/main/assets/skill_dev_nitc.jpg)
-- Conducted Introductory Workshop on Robotics and AI to Rural IT people as a part of India
-Literacy Program.
+- Took a session on Deep Q learning as part of RL workshop conducted by AI Club, NITC
+![Workshop Speaker](https://github.com/mano3-1/saimanoj.github.io/raw/main/assets/RL WORKSHOP.png)
 - Conducted a 2 Hour Session on Introduction to AI and ML at NIT Calicut - Dept.of Mechanical 
 Engineering.
 ![Workshop Speaker]
