@@ -16,17 +16,10 @@ weight: 7
 <br>
 
 ### Competitions <br>
- -  Participated in NiTCkathon.Ai which is an AI based hackathon conducted by JMR Infotech.
-![](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/nitkathon.png)  
+ -  Stood first in the medicine and health category in Aatmanirbhar hackathon organized by SSIP BVM(Government of Gujarat), National Project Implementation Unit(NPIU)
 
-- Quarter Finalist at India design Contest conducted by DST, Texas Instruments,Startup India.
+- Won Flipr Hackathon 5.0 conducted Flipr Innovation Labs
+
+- Secured Silver Medal in Cassava Leaf Disease Classification conducted by Kaggle
 <br>
  
-
-### Seminars/Talks <br>
-<ul>
-<li> Participated in 3D Computer Vision Summer School - IIIT Hyderabad </li>
-<li> Participated in Short-term programme on Research Methodology in Science, Energy and Management. </li> 
-<li> Participated in a full day session on Startup and IPR Awareness Program.  </li>
-<li> Participated in a seminar on Innovations in Space Technology. </li> 
-</ul> 

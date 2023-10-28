@@ -11,74 +11,36 @@ weight: 1
 ### **At Tiger Analytics**
 
 
-**MLOps Framework Dev for Unified DataScience Platform**
+**Bug Risk Prediction**
 <ul>
 <li>
-Led a team of three ML Engineers in developing a Scalable MLOps Framework in Amazon Web Services utilizing Sagemaker capabilities.
+Deployed a model to predict out of sprint bugs using Jira Data.
 </li>
 <li>
-Developed and deployed a MLOps framework for deploying Datascience models with ease involving services such as Sagemaker, DynamoDB, Event Bridge, SNS.
+The model consumes different features like past bug prevalence in an epic, assignee's past performance, 
+word level features of the story description, etc.,. 
 </li>
 <li>
-Developed a Organizational flow for the client to onboard new datascientists to get familiar with framework and reduce their model development and deployment time by more than 75 % (Almost from 4 Weeks to 7 Working Days)
-</li>
-</ul>
-
-**MLOps Pipeline Dev for Price Elasticity**
-<ul>
-<li>
-Led the GCP ML Accelerator Program and helped organization to become a GCP ML partner. My contribution involve explaining the projects and the organization capbility in terms of both Technical capabilities and the successfull projects and business impact.
-</li>
-
-<li>
-Led a team of four ML Engineers in developing a Scalable and experiment reproducible MLOps pipeline for Price Elasticity of SKU's classification.
-</li>
-<li> 
-Able to reduce the total models training time by more than 50 percent using parallelised approaches with Pyspark.
+Used Jenkins to schedule a job that runs the model periodically (everyday in offshore hours) to score stories that are in ready status. The results are written to database from which a Grafana dashboard is created to visualize the results.
 </li>
 <li>
-End-to-End pipeline with orchestrator as Google Composer, Custom container deployment for Feature preparation, Dataproc for running Pyspark jobs to train more than 30000 SKU models in less than 3 hours.
+Along with predictions, shap values are computed to help scrum masters to know which factor is contributing towards bug risk and act accordingly.
 </li>
-</ul>
-
-**IOT - CV -ML Exploration - Internal POC**
-<ul>
-<li> Leading the capability development of the firm in the combined space of IOT and CV. </li>
-<li> Developing scalable architecture on AWS with IOT Greengrass and Kinesis. </li>
-<li> Currently in POC phase where we are trying to work with edge devices with two streams of 
-data. One of the stream is a continuous value data (IOT sensors) and one other stream is 
-a video stream. </li>
-<li> Exploring the Scalable CV pipelines both in DS and MLOps perspective. Checking the 
-feasibility of optimisation of the pipelines from the Data preprocessing of streams to 
-Inference. (Elastic Inference, Nvidia Deepstream SDK, Triton Inference Server) </li>
-</ul>
-
-**Login Event** **Anomaly Detection - ML in Cybersecurity**
-<ul>
-<li>Developed a Feature Engineering and Ingestion Pipeline using MLOps approach
-</li>
-<li>Developed a Feature Serving and Training pipeline using GCP Vertex AI MLOps
-</li>
-<li> eveloped an Online Serving and Eval pipeline using GCP Vertex AI.
-</li>
-<li> Automating the entire ML Dev and Deployment field using CI-CD with GCP services. 
-</li>
-<li> Developed models related to Anomaly detection using a hybrid approach of Unsupervised and Supervised models with an additional component of Explainable AI. </li>
 </ul>
 
 ---
 
-### **As a Freelancer**:
+### **At Decimal Point Analytics**:
 
-**Project based Freelancing - Client through LinkedIn**
-
-1. Point Tracking for Ultrasound Videos to measure joint instability
-   <ul>
-   <li> Developed a end to end framework for aiding Medical practitioners to track different segments in ultrasound at a point level throughout the timeframe of a video</li>
-   <li> This tool can provide real time plots of distance and angle between segments in 2D space and also gives the capability of doing further analysis with a single time run data. </li>
-   </ul>
-
-2. Knee Arthroscopy Tool
+**CSV Agent**
+<ul>
+<li> DevelopedaCSVagentutilizinglargelanguagemodelstofacilitate natural language interaction with
+Excel files. </li>
+<li>  Designed the agent to understand user queries and generate goals based on their input. The agent
+writes code to execute actions corresponding to the defined goals, allowing seamless interaction with CSV data. </li>
+<iframe src="https://github.com/mano3-1/saimanoj.github.io/raw/main/assets/Media_smartcloud_smartcloud_csv.mp4" width="590" height="335" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+</ul>
+**
     <ul>
     <li> Developing a workflow with Tradtional and DL based CV to handle Image based relative measurements and transfer them to real world coordinates </li>
     <li> This tool helps in Surgeries as an aid to Surgeons to get relative real world estimates of the space on which they are performing the surgery  </li>
