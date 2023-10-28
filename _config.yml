@@ -3,7 +3,7 @@ title               : Sai Manoj Akondi
 description         : >- 
                       From data science to movie talk and exploring the world, I wear many hats. 🎩📊🎥✈️ Join me in conversations about math, AI, cinema and travel. 🤖🌎
 baseurl             : ""                     # Change to empty quotes if you are hosting your site at <your-username>.github.io directly
-repository          : mano3-1/saimanoj.github.io    # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
+repository          : mano3-1/mano3-1.github.io   # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
 remote_theme        : udaygirish/portfolYOU
 
 
