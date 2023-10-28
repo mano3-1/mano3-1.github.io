@@ -8,7 +8,7 @@ weight: 1
 ## **Projects - Professional /Internships**
 
 ---
-### **At Tiger Analytics**
+### **At Tiger Analytics as ML Engineer**
 
 
 **Bug Risk Prediction**
@@ -30,7 +30,7 @@ Along with predictions, shap values are computed to help scrum masters to know w
 
 ---
 
-### **At Decimal Point Analytics**:
+### **At Decimal Point Analytics as Data Scientist**
 
 **CSV Agent**
 <ul>
@@ -38,183 +38,128 @@ Along with predictions, shap values are computed to help scrum masters to know w
 Excel files. </li>
 <li>  Designed the agent to understand user queries and generate goals based on their input. The agent
 writes code to execute actions corresponding to the defined goals, allowing seamless interaction with CSV data. </li>
-<iframe src="https://github.com/mano3-1/saimanoj.github.io/raw/main/assets/Media_smartcloud_smartcloud_csv.mp4" width="590" height="335" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+<video controls="controls" width="600" height="350">
+    <source src="https://drive.google.com/uc?export=download&id=1k42rvMM4aGNHzzlubCV1iJ2yn5ajb3rV" type='video/webm'/>
+</video>
+
 </ul>
-**
-    <ul>
-    <li> Developing a workflow with Tradtional and DL based CV to handle Image based relative measurements and transfer them to real world coordinates </li>
-    <li> This tool helps in Surgeries as an aid to Surgeons to get relative real world estimates of the space on which they are performing the surgery  </li>
-    </ul>
 
-3. Label Studio Setup for Automated ML Labelling
-    <ul>
-    <li> Developed Code to support Yolov5 as a ML Backend for Automated ML labelling in Label Studio </li>
-    <li> Integrated Yolov5 , OpenMMLab Object Detection models to LabelStudio ML Backend </li>
-    <li> Wrote Scripts to run LabelStudio in a Colab leveraging Colab’s GPU working through a tunneled external url using Ngrok. </li>
-    </ul>
-    
-4. Website for Video Analytics
-    <ul>
-    <li>Developing an Website where user can upload videos and select or upload pretrained models (Yolo, CLIP based formats) and get the results streamed on the same website with outputs labelled on the Video. </li>
-    <li> Used Streamlit for Basic frontend, Model Runner API on backend which runs scripts according to the selection on UI. </li>
-    <li>Plans are there to upgrade this to a React based Website with more model or Data format supports. </li>
-    </ul>
-
-**Full-time Machine Learning Engineer- Deep Judge:**
-
-1. Document Text Extraction and Summarisation 
-    <ul>
-    <li> Developed an API that can extract text from a PDF and group the pages based on Page start and ending based on OpenCV-based logic, Block detection, and by tesseract. </li>
-    <li> Used Hugging Face - T5 Transformer inference for Summarisation of the extracted text. </li>
-    </ul>
-2. Exploration of NER (Named Entity Recognition) Models (SOTA) and datasets.
-3. Information extraction from .docx (XML) formatted documents through traditional python libraries for further NER and NLP-based tagging pipeline.
-4. Exploration on SPARQL and Semantic Web based approaches for graph creation for linking the content.
-
-**Part-time Data Science Consultant - Aays Analytics:**
-
-1. Retail Analytics Forecast :
-    <ul>
-    <li>Developing a Proof of Concept Forecast model for Retail Fashion Products (Online mode of selling) to help the planning team about stock intakes, the product should be restocked or not.
-    </li>
-    <li>Experimenting with multiple algorithms and problem statements is solved by modeling it as a Classification + Regression Problem.</li>
-    </ul>
-        
-        
-
-**Part- time Project - Applied Computing**
-
-1. Auto Ticket Generation POC:
-    <ul>
-    <li> Working on developing a platform to automate ticket generation for queries and complaints </li>
-    <li> End to End platform to automate the Phone calls/messages received by a contact center and use AI for automatic ticket generation </li>
-    </ul>
-
-2. Virtual KYC: 
-    <ul>
-    <li>Developed a full-fledged Virtual KYC solution with OpenCV,  AWS Textract, and Facerec APIs to extract information, verify faces and textual information, and use it for the KYC authentication system. Here the solution provides the total information extracted plus whether the documents are acceptable or not or any discrepancies in the documents.</li>
-    </ul>
-    
-
-**Part-time Project- News to WordPress**
-
-1. Multi languages news translator
+**Dolat Summarization**
 <ul>
-<li>
-    Developed a Fast API + Streamlit based Web interface which can take an e-news or normal paper image picture and process it using Vision API/ Open source-based Pytesseract to extract information (Block level), detect language, and translate it to a set of languages according to the client specification and publish it to different WordPress domains as a new Post. </li>
-    </ul>
+<li> Contributed to the fine-tuning of a large language model on consumer GPUs to generate summarizations of earnings calls. </li>
+<li> Leveraged advanced techniques, such as LoRA, to optimize the training process for large models on consumer-grade hardware. </li>
+<li> Collaborated with a teamtoworkwithstate-of-the-art models like Pythia, MPT, GPT-Neo-X, and T5 Flan, achieving significant progress in the project. </li>
+</ul>
 
-**Client through Connections:**
+**Semantic Datatype Detection**
+<ul>
+ <li> Designed and developed a high-accuracy transformer model for automated classification of column data types, leveraging a dataset of 800K data points from both online and internal sources. </li>
+ <li> Achieved an impressive 94% accuracy on the test set, demonstrating the model’s robustness and effectiveness. In addition, trained a LSTM model with an embedded layer to learn character embeddings, which achieved a solid accuracy of 85%. </li>
+ <li> Conducted rigorous experimentation and analysis to optimize model performance and improve
+ accuracy. </li>
+</ul>
 
-1. Reinforcement learning-based trading system:
-    <ul>
-    <li>Worked on developing codebase to develop a base Reinforcement learning-based trading framework taking the help of opensource work. Especially integration Stable Baselines3 to the OpenAI Gym framework. Worked on A2C, PPO, DQN, DDPG integration to the current system using the CNN and MLP based feature network(Current Default support).</li>
-    </ul>
-    
+**ESG Classifier**
+<ul>
+ <li> Worked on a project with the objective of developing a text classifier capable of accurately categorizing text into three distinct genres: environmental, social, and governance. </li>
+ <li> Incorporated the GradCam technique to visualize the specific phrases that the BERT model focused on during the classification process, enhancing interpretability and transparency of the final output. </li>
+</ul>
 
-**Upwork (Client Details hidden) :**
+**Tiger automation**
+<ul>
+ <li> Worked on a project to automate the appraisal process by developing a robust data processing pipeline using PySpark. </li>
+ <li> Leveraged Snowflake database as the primary data source and performed all calculations and transformations using PySpark's distributed processing capabilities. </li>
+</ul>
 
-1. Q&A Pipeline:
-    <ul>
-    <li>
-    Developing base question and answering pipeline for demonstration and tutorial purpose using Hugging Face transformers, Pytorch lightning, and model metadata logging to Weights and Biases. </li>
-    </ul>
-    
----
+**PDF2Excel**
+<ul>
+ <li> Worked on development of a cutting-edge ML pipeline for converting PDF tables to Excel, utilizing OCR and advanced layout detection models. Leveraged DiT (document image transformer) to accurately detect the layout of PDFs and extract tabular data. </li>
+</ul>
 
-### **At New Space Research & Technologies**
-
-1. Computer Vision Pipeline for Targeting and Navigation:
-    
-    <ul>
-    <li>Worked on developing the current feature matching algorithms (Keypoint extraction algorithms) such as SIFT, SURF which belong to more of the traditional Computer Vision model. </li>
-    <li>So, to increase their accuracy and generalization worked on Deep learning-based feature matching and SLAM-based algorithms such as D2 Net, SuperGlue, and LoFTR which are mostly related to CNN-based or CNN+GNN based approaches.</li>
-    </ul>
-    
-2. Platform Shift - Raspberry Pi to Jetson NX:
-    <ul>
-    <li>Lead the exploration of moving the current deployment architecture from Raspberry Pi to CUDA-based platforms such as Jetson Xavier NX and Jetson Xavier AGX to gain a computational advantage in terms of Accuracy and Processing power. </li>
-    <li>Worked on OpenVINO, Triton or TensorRT, Deepstream based deployment methods as a part of this exploration. </li>
-    </ul>
-    
-3. Machine Learning- Common Duties:
-    <ul>
-    <li> Working as a part of the ML Engineering team to help convert and optimize the models into Openvino formats and also help in improving the current Object Detection models and participated in training and deployment of models.</li>
-    </ul>
-    
+**AutoML**
+<ul>
+ <li> Working on an end-to-end pipeline that automates diverse ML processes, including preprocessing, feature selection, model selection, and hyperparameter tuning. </li>
+ <li> Developed with a vision to democratize model training, the product aims to empower individuals with non-technical backgrounds, making it effortless and accessible for them to engage in machine learning. </li>
+</ul>
 
 ---
 
-### At Quantiphi
+### **At Decimal Point Analytics as Software Development Intern**
 
-1. Computer Vision for Safety: 
-    - This project involves working on computer vision models to build a pipeline to ensure safety in theme park adventure and 4D rides. I was in the Machine learning team of this project and mostly worked on models such as Image Classification, Object Localisation, and Tracking, Pose estimation, and other cloud components to integrate the models into the pipeline.
-2. Computer Vision for Suspect Search: 
-    - This project involves working on CV models to build a pipeline where suspects can be searched in the video feed within seconds and to identity thefts and any anomaly activities. I primarily worked in developing Object Localisation and tracking, Person Re-identification, Search logic and clustering logic, and other cloud components.
-3.  Document Classification with Transformers: 
-    - This project involves working on NLP-based transformer models to integrate the transformer models into a present Kubeflow pipeline and to benchmark different transformer models performance such as Open GPT-2, DistilBERT, Roberta, and Longformer in terms of latency and accuracy.
-4. Translation Service for Document and Web: 
-    - This project involves developing a solution that primarily concentrates on translation documents and web pages using Google Cloud APIs (Vision, Translation, Doc Parser) and Auto ML. 
-5. Hybrid Model Deployment Scenarios - Solutions research team: 
-    - Working on NVIDIA Deep stream SDK, TLT, and connecting different models for optimizing pipeline performance in terms of latency and Accuracy.
-    - Working on Tensorflow Lite to understand CPU based deployments and optimizing further to check the feasibility of low-cost model deployments
-    - Exploration of other CPU optimizers primarily checking Intel MKL-DNN and Open Vino to understand different CPU level model optimizations.
-    - Exploration on Federated learning to understand privacy and distributed model developments.
+**Blockchain based Chat and Bid Application**
+<ul>
+<li>Designed and developed a cutting-edge blockchain-based chat and bidding application, leveraging the power of Hedera Hashgraph.</li>
+<li>Utilized Hedera Hashgraph's JavaScript API to build a secure and robust application that enabled seamless messaging and bidding transactions.</li>
+</ul>
+
+---
+### **At SchoolHack as AI/ML Engineer**
+
+**IQL for ChatGPT**
     
+<ul>
+<li>Used Implicit Q learning to pick up engaging answers from ChatGPT</li>
+<li>Automated IQL finetuning pipelines using AWS EC2 and AWS S3 bucket</li>
+<li>The IQL is performed periodically just by calling an API and this API is responsible to pull data from S3, finetune it using IQL on an ec2 instance and update the weights</li>
+</ul>
+
+**Live Translation from English to other foreign Langugaes**
+    
+<ul>
+<li> Used seamless-m4t model (developed by Meta) to translate ChatGPT/llama's replies into other foreign language, mainly Arabic. </li>
+<li> Seamless-m4t requires the label for input language to do the translation. Hence, a separate language detector, xlm-roberta is deployed alongside.</li>
+<li>To handle the traffic, the model is deployed on two g4dn xlarge GPUs using AWS sagemaker service. </li>
+</ul>
+
+**Llama2 Finetuning**
+    
+<ul>
+<li> As a leading LLM application, School Hack generated a lot of data everyday. </li>
+<li>Finetuned Llama2 7b model on a 1M chat datapoints</li>
+<li>The training is done on G5.48xlarge instance on AWS. </li>
+</ul>
+
 ---
 ---
 
 ## **Projects - Academic/Personal**
     
-1. Autonomous Bot-v1 using DL and ROS(Ongoing) - Fun Project: 
+1. Automation of Cleaning cervical data using deep learning techniques:
+
+    Developed a supervised contrastive model to filter outliers in a cervical image dataset resulted in superior performance when compared to human cleaning. These impressive findings were published in the prestigious IEEE Access journal.
         
-    Development of an Autonomous bot using ROS, Object Detection, Lane Detection, and path planning using Jetson Nano, RPI4 with a night vision system implemented.
+2. EfficientCenterDet: A novel Self supervision boosted RoI proposal network for cervix type detection [[code]](https://github.com/mano3-1/EfficientCenterDet-for-cervix-type-detection):
+
+    A fully automated self-supervised pipeline has been developed for the detection of cervical cancer. This impressive feat was achieved by leveraging a novel object detector, which drew inspiration from both the efficientdet architecture and centrenet loss. These impressive findings were published in the prestigious International Journal of Imaging Systems and Technology.
+
         
-2. Auto RC Car using Tiny ML (Ongoing) - Fun Project: 
-    Integrating RC Car (1:10) with vision and sensory models and using Tiny ML for low-powered micro-controllers to understand the capability of edge computing.
         
-<!-- 3. Robo DJ(ongoing) - Under Feasibility Check mode:
-    DJ with Deep Learning using Audio and vision-based architectures. Under literature review for getting domain knowledge for hybrid implementation. -->
-        
-3. Knee Rehabilitation System: 
+3. Covid-19 detection from CT scans [[code]](https://github.com/mano3-1/Covid-detection-with-CT-scans):
     
-    Fabrication of a device with 2 DOF mechanism which can be used for performing Flexo-extension exercises can be used for Knee rehabilitation purposes.
-
-    Hip Flexo Extension | Knee Flexo Extension
-    :---------------:|:--------------------:
-    ![](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/hipflexoextension.JPG)|![](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/kneeflexoextension2.JPG)
+    I successfully designed and implemented an advanced EfficientNet architecture that accurately predicts Covid-19 infection through CT scans. To ensure optimal performance, I employed a BCD U-net for efficient segmentation of the region of interest. These findings were communicate to a conference.
 
 
         
-4. Online Shopping skillset for Alexa - NITCkathon.ai (24hr event)
+4. Cassava Leaf disease classification [[code]](https://www.kaggle.com/saimanojakondi/the-cassava/notebook):
         
-    As part of NITC hackathon conducted by JMR InfoTech, worked as a 3-member team and developed a skillset for Amazon Alexa to understand different skills related to online shopping.
+    I undertook a challenging Kaggle competition by implementing a variety of advanced models, including Vision Transformer, EfficientNets, and ResNets, all trained using Bi-Tempered Loss. To achieve even greater accuracy, I utilized an ensemble of these models in conjunction with Test Time Augmentation (TTA).
         
         
-5. RIGGU V2-The Semi Humanoid : 
+5. Stock Market prediction with tabnet [[code]](https://github.com/mano3-1/Flipr_Hackathon): 
         
-    A complete framework for the development of an Interactive Semi-Humanoid Robot using technologies like AI, NLP, ROS, SLAM.
-            
-    <iframe width="640" height="480" src="https://www.youtube.com/embed/rJtpveWpm8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+    Successfully trained tabnet architecture, (original developed by google AI cloud) for regressing over a complex tabular data. Along with tabnet, I also trained gradient boosted tree algorithms like xgboost, catboost. Also, trained RNN for puts call ratio from historical data. I leveraged self supervised methods to handle missing values and ensure the highest level of model accuracy.   
 
 
-6. Quadcopter: 
-    Autonomous Quadcopter based on PixHawk Flight controller integrated with a Raspberry Pi.
-    <iframe src="https://player.vimeo.com/video/717149294?h=6fa04be482" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-    
-    <iframe src="https://player.vimeo.com/video/717149263?h=f9cca6ee04" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+6. Tweet Sentiment Extraction [[code]](https://github.com/mano3-1/Sentiment-Extraction-from-tweets): 
+    Worked on a project to extract key phrases given the sentiment from tweets, utilizing multiple advanced transformers, including XLNet, RoBERTa, and alBERT. To achieve even greater performance, I implemented an ensemble of these models, further enhancing my model's predictive power
 
-7. Hexacopter:  
-    Hexacopter based on ARM and equipped with manual control. PID tuning was done for stability. This project involves the testing and performance analysis of hexacopter on PID and backstep algorithms.
-
-    <iframe src="https://player.vimeo.com/video/717149217?h=d72ef18eed" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+7. Human Activity Recognition using 2D pose [[code]](https://github.com/mano3-1/Human-Activity-Recognition):
+    For this project, I tackled the challenging task of detecting human activities from video data. To achieve this, I utilized the powerful pose recognition model, Posenet, as a starting point, and built a custom Convlstm head on top of it. This model was then fine-tuned using a data input of 20 frames at a time, allowing for greater accuracy in activity detection.
         
-8. Robocon Bot:
+8. Multi task learning for self driving cars:
         
-    A manual bot that can throw disks at specified positions which were made by our Robotics Interest Group for National-level Robotics Competition called Robocon-2017.
-        
-    ![Robocon_Image.jpg](https://github.com/udaygirish/udaygirish.github.io/raw/master/assets/Robocon_Image.jpg)
-        
+    Developed a single neural network that can perform object detection, segmentation and depth perception using IDD dataset
     
 
 ---
@@ -230,12 +175,7 @@ writes code to execute actions corresponding to the defined goals, allowing seam
 - Machine Learning
 - Deep Learning
 - Artificial Intelligence
-- Robotics
 - Cloud Computing
-- Edge Computing
-- Quantum Computing
-- Software Engineering
-- Mechatronics
 
 **Responsibilities:** 
 
@@ -254,9 +194,7 @@ writes code to execute actions corresponding to the defined goals, allowing seam
 
 **Interests:**
 
-- Robotics - Simulations and real-time robotics development (3D and 2D Vision with motion planning)
+- NLP (LLMs)
 - Machine learning - Tradition + Deep Learning
 - Reinforcement learning
 - Explainable AI
-- Quantum Physics and Computing
-- Philosophy
