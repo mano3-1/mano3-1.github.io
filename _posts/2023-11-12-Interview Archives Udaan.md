@@ -1,6 +1,6 @@
 ---
 title: Interview Experience for Data Scientist Role | Udaan
-tags: [Interview archive]
+tags: [Interview archives]
 style: fill
 color: secondary
 comments: true
