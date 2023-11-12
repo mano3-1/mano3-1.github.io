@@ -34,8 +34,7 @@ Along with predictions, shap values are computed to help scrum masters to know w
 
 **CSV Agent**
 <ul>
-<li> DevelopedaCSVagentutilizinglargelanguagemodelstofacilitate natural language interaction with
-Excel files. </li>
+<li> Developed a CSV agent utilizing large language models to facilitate natural language interaction with Excel files. </li>
 <li>  Designed the agent to understand user queries and generate goals based on their input. The agent
 writes code to execute actions corresponding to the defined goals, allowing seamless interaction with CSV data. </li>
 
@@ -49,7 +48,7 @@ writes code to execute actions corresponding to the defined goals, allowing seam
 <ul>
 <li> Contributed to the fine-tuning of a large language model on consumer GPUs to generate summarizations of earnings calls. </li>
 <li> Leveraged advanced techniques, such as LoRA, to optimize the training process for large models on consumer-grade hardware. </li>
-<li> Collaborated with a teamtoworkwithstate-of-the-art models like Pythia, MPT, GPT-Neo-X, and T5 Flan, achieving significant progress in the project. </li>
+<li> Collaborated with a team to work with state-of-the-art models like Pythia, MPT, GPT-Neo-X, and T5 Flan, achieving significant progress in the project. </li>
 </ul>
 
 **Semantic Datatype Detection**
