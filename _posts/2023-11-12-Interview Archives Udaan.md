@@ -7,10 +7,11 @@ comments: true
 description: This explains my interview experience for data scientist role at Udaan in detail.
 ---
 
-I am a fresher (with one year of work ex as data scientist) got an invite for interview from Udaan.com, Benguluru. The HR said that there will be five rounds. <br>
+With one year of experience as a data scientist, I received an interview invitation from Udaan.com in Bengaluru. The HR outlined the five rounds as follows:
+
 1. ML Coding Round
 2. ML Past Projects Discussions
-3. 
+3. Diving Deep into ML Concepts
 4. Product Understanding
 5. HR Discussion
 
