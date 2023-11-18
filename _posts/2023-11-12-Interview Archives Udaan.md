@@ -77,3 +77,6 @@ Here is a list of questions I received during the interview:
 16. How does an LSTM work?
 
 17. Explain LoRA.
+
+
+STAY TUNED FOR UPDATES ON NEXT ROUND!!
