@@ -26,6 +26,12 @@ Used Jenkins to schedule a job that runs the model periodically (everyday in off
 <li>
 Along with predictions, shap values are computed to help scrum masters to know which factor is contributing towards bug risk and act accordingly.
 </li>
+<li>
+Developed a retraining pipeline scheduled run periodically updating the model with new data
+</li>
+<li>
+Developed a performance monitoring pipeline scheduled to run periodically to compute the performance on updated data.
+</li>
 </ul>
 
 ---
@@ -84,15 +90,7 @@ writes code to execute actions corresponding to the defined goals, allowing seam
 
 ---
 
-### **At Decimal Point Analytics as Software Development Intern**
 
-**Blockchain based Chat and Bid Application**
-<ul>
-<li>Designed and developed a cutting-edge blockchain-based chat and bidding application, leveraging the power of Hedera Hashgraph.</li>
-<li>Utilized Hedera Hashgraph's JavaScript API to build a secure and robust application that enabled seamless messaging and bidding transactions.</li>
-</ul>
-
----
 ### **At SchoolHack as AI/ML Engineer**
 
 **IQL for ChatGPT**
@@ -106,17 +104,27 @@ writes code to execute actions corresponding to the defined goals, allowing seam
 **Live Translation from English to other foreign Langugaes**
     
 <ul>
-<li> Used seamless-m4t model (developed by Meta) to translate ChatGPT/llama's replies into other foreign language, mainly Arabic. </li>
+<li> Used seamless-m4t model (developed by Meta) to translate ChatGPT/llama's replies into other foreign languages, mainly Arabic. </li>
 <li> Seamless-m4t requires the label for input language to do the translation. Hence, a separate language detector, xlm-roberta is deployed alongside.</li>
 <li>To handle the traffic, the model is deployed on two g4dn xlarge GPUs using AWS sagemaker service. </li>
 </ul>
 
-**Llama2 Finetuning**
+**Llama2 and Llama3 Finetuning**
     
 <ul>
 <li> As a leading LLM application, School Hack generated a lot of data everyday. </li>
-<li>Finetuned Llama2 7b model on a 1M chat datapoints</li>
+<li>Finetuned Llama2 7b and Llama3 8b models on a 1M chat datapoints</li>
 <li>The training is done on G5.48xlarge instance on AWS. </li>
+</ul>
+
+---
+
+### **At Decimal Point Analytics as Software Development Intern**
+
+**Blockchain based Chat and Bid Application**
+<ul>
+<li>Designed and developed a cutting-edge blockchain-based chat and bidding application, leveraging the power of Hedera Hashgraph.</li>
+<li>Utilized Hedera Hashgraph's JavaScript API to build a secure and robust application that enabled seamless messaging and bidding transactions.</li>
 </ul>
 
 ---
