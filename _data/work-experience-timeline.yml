@@ -1,21 +1,26 @@
-- title: Senior Analyst - MLE, Tiger Analytics, Hyderbad
-  from: July 2023
+- title: Machine Learning Engineer, Tiger Analytics, Hyderabad
+  from: Jan 2025
   to: Present
   image: 
-  description: ML Engineering & MLOps Development with primary focus on developing ML Platforms and ML Solutions
-              for Business use cases.
+  description: At Tiger Analytics, I have been working on LLM-based applications, including Agentic RAG systems, traditional RAG pipelines, and predictive modeling projects. I have a strong understanding of LLM architectures, fine-tuning techniques (like LoRA/PEFT), and evaluation methodologies. Additionally, I have experience operationalizing ML and LLM applications on scalable Azure infrastructure, ensuring production readiness and performance optimization.
+
+- title: Senior Analyst - MLE, Tiger Analytics, Hyderabad
+  from: July 2023
+  to: Dec 2024
+  image: 
+  description: At Tiger Analytics, I have been working on LLM-based applications, including Agentic RAG systems, traditional RAG pipelines, and predictive modeling projects. I have a strong understanding of LLM architectures, fine-tuning techniques (like LoRA/PEFT), and evaluation methodologies. Additionally, I have experience operationalizing ML and LLM applications on scalable Azure infrastructure, ensuring production readiness and performance optimization.
 
 - title: Data Scientist, Decimal Point Analytics, Mumbai
   from: July 2022
   to: July 2023
   image: 
-  description: Part of Reasearch wing, primarily focused on solving business problems using ML and DL. 
+  description: At Decimal Point Analytics, I worked as a Data Scientist focusing on computer vision (CV) and natural language processing (NLP) problem statements. I was responsible for translating business requirements into ML/DL solutions, including fine-tuning LLMs and transformer models for NLP tasks. Additionally, I developed optimized PySpark data pipelines to handle large-scale datasets efficiently.
 
-- title: AI/ML Engineer, School Hack, Dubai (Remote)
-  from: 
-  to: 
-  image: 
-  description: Part of the research wing, primarily focused on LLM Finetuning and deployment. 
+# - title: AI/ML Engineer, School Hack, Dubai (Remote)
+#   from: 
+#   to: 
+#   image: 
+#   description: Part of the research wing, primarily focused on LLM Finetuning and deployment. 
 
 - title: Software Development Intern, Decimal Point Analytics, Mumbai
   from: May 2021
