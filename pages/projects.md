@@ -14,19 +14,13 @@ weight: 1
 
 <ul> <li> Developed an Agentic RAG-based chatbot to answer user queries related to a billing guide by orchestrating multiple agents including a billing guide agent, SQL agent for dynamic data retrieval, a summarizer, and a manager to oversee task coordination. </li> <li> Architected and implemented an asynchronous SQL data layer to efficiently persist chat histories and ensure scalability. </li> <li> Designed and developed RESTful APIs to support chat interactions and database operations. </li> <li> Built a Phoenix dashboard to enable real-time observability of the chatbot’s operations. </li> <li> Contributed to scoping and setting up Azure infrastructure to support deployment, scaling, and monitoring of the chatbot. </li> </ul>
 
----
-
 **Bug Risk Prediction**
 
 <ul> <li> Deployed a model to predict out-of-sprint bugs using Jira data. </li> <li> The model consumes features such as past bug prevalence in an epic, assignee’s past performance, and word-level features of the story description. </li> <li> Used Jenkins to schedule a job that runs the model periodically (everyday in offshore hours) to score stories that are in "ready" status. The results are stored in a database and visualized through a Grafana dashboard. </li> <li> Computed SHAP values along with predictions to help scrum masters identify key factors contributing to bug risk. </li> <li> Developed a retraining pipeline scheduled to run periodically, updating the model with new data. </li> <li> Developed a performance monitoring pipeline scheduled to run periodically to compute the model’s performance on updated data. </li> </ul>
 
----
-
 **Jira/Epic Story Generation**
 
 <ul> <li> Contributed to the development of a RAG-based system that automatically generates Jira stories and epics based on provided descriptions. </li> <li> Leveraged OpenAI APIs to extract relevant context and formulate structured story and epic outputs. </li> <li> Ensured the generated outputs were aligned with project requirements to reduce manual effort in story creation. </li> </ul>
-
----
 
 **Confluence Chatbot**
 
